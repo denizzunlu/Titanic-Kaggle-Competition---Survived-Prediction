@@ -1,0 +1,1 @@
+For those who are new to the world of machine learning, a sample notebook with a score of 0.77751 with the Random Forest algorithm prepared for the kaggle competition called "Titanic - Machine Learning from Disaster".
